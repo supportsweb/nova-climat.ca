@@ -208,7 +208,7 @@ cookieconsent.run({"notice_banner_type":"simple","consent_type":"express","palet
                     <li class="nav-item">
 
                         <a class="nav-link"
-                           href="/en/l">
+                           href="/en">
                             Home
                         </a>
 
@@ -493,7 +493,7 @@ cookieconsent.run({"notice_banner_type":"simple","consent_type":"express","palet
                     </p>
 
                     <a
-                        href="../en/privacy-policyhtml"
+                        href="../en/privacy-policy.html"
                         class="footer-privacy"
                     >
                         Privacy Policy
